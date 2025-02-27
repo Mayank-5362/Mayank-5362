@@ -39,6 +39,9 @@ LinkedIn: Mayank Verma ( https://www.linkedin.com/in/mayank-verma-aa7866257 )
 
 Email: mynkverma@gmail.com
 
+![LeetCode Stats](https://leetcode-stats.com/api/v1/coder/mynkverma4896/chart?theme=light)
+
+
 
 😄 Pronouns
 
